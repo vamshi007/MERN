@@ -19,7 +19,7 @@
     "express-jwt": "^5.3.3",
     "express-validator": "^6.5.0",
     "formidable": "^1.2.2",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "jsonwebtoken": "^8.5.1",
     "loadash": "^1.0.0",
     "mongoose": "^5.9.18",
